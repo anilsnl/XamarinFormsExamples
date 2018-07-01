@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EFCore.Views.NewNotePage" 
+             Title="New Note">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" Padding="2">
+            <Label Text="Title"
+                ></Label>
+            <Entry x:Name="txtTitle" Placeholder="Type a title..."
+                ></Entry>
+            <Label Text="Note Detail"
+                ></Label>
+            <Entry x:Name="txtDetail" Placeholder="Type a detail..."
+                ></Entry>
+            <Button Text="Add Note" x:Name="btnAdd" Clicked="btnAdd_Clicked" BackgroundColor="Black" TextColor="White"
+                ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

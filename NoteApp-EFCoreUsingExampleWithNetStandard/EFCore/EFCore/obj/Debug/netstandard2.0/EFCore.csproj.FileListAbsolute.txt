@@ -1,0 +1,13 @@
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\bin\Debug\netstandard2.0\EFCore.deps.json
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\bin\Debug\netstandard2.0\EFCore.dll
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\bin\Debug\netstandard2.0\EFCore.pdb
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.csprojAssemblyReference.cache
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.csproj.CoreCompileInputs.cache
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.AssemblyInfoInputs.cache
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.AssemblyInfo.cs
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.dll
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\obj\Debug\netstandard2.0\EFCore.pdb
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\obj\Debug\netstandard2.0\Views\ListPage.xaml.g.cs
+C:\Users\anild\source\repos\EFCore\EFCore\EFCore\obj\Debug\netstandard2.0\Views\NewNotePage.xaml.g.cs
